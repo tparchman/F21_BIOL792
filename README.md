@@ -3,10 +3,9 @@
 
 
 
-Fall 2020    
+Fall 20201   
 BIOL 792 - 1028   
 **Prof**: Dr. Thomas Parchman; SFB 209; tparchman@unr.edu   
-**Post doc instructor**: Dr. Joshua Jahner; jpjahner@gmail.com \
 Class: Tuesday/Thursday 6:00 – 7:10 pm TBA   
 Office Hours: By appointment    
 
