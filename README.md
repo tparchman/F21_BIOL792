@@ -105,6 +105,30 @@ access to educational opportunities. For assistance, contact the
 Disability Resource Center (DRC) at 784-6000 to determine eligibility
 and appropriate accommodations.
 
+### **Statement on COVID-19 Face Coverings**
+In response to COVID-19, and in alignment local, state, and U.S. Center for Disease Control guidelines, face coverings are required at all times in all University indoor public spaces, including classroom, laboratory, studio, creative space, or any type of in-person instructional activity, and public spaces. Furthermore, individuals who have not been fully vaccinated against COVID 19 are required to wear a face covering at all times while on campus, including all indoor and outdoor public spaces.
+
+A “face covering” is defined as a “covering that fully covers a person’s nose and mouth, including without limitation, cloth face mask, surgical mask, towels, scarves, and bandanas” (State of Nevada Emergency Directive 024).
+
+Students that cannot wear a face covering due to a medical condition or disability, or who are unable to remove a mask without assistance may seek an accommodation through the Disability Resource Center.
+
+### **Statement on COVID-19 Social Distancing**
+
+ In alignment with State of Nevada guidelines, social distancing is no longer required.
+
+
+### **Statement on COVID-19 Disinfecting Your Learning Space**
+
+Disinfecting supplies are provided for you to disinfect your learning space. You may also use your own disinfecting supplies.
+
+### **Statement on COVID-19, COVID-19 Like Symptoms, and Contact with Someone Testing Positive for COVID-19**
+
+Students testing positive for COVID 19, exhibiting COVID 19 symptoms regardless of vaccination status will not be allowed to attend in-person instructional activities and must leave the venue immediately. Students should contact the Student Health Center or their health care provider to receive care and who can provide the latest direction on quarantine and self-isolation. Contact your instructor immediately to make instructional and learning arrangements.
+
+### **Accommodations for COVID 19 Quarantined Students**
+
+For students who are required to quarantine or self-isolate due to 1) COVID 19 infection or 2) exposure while not vaccinated, instructors must provide opportunities to make-up missed course work, including assignments, quizzes or exams. In courses with mandatory attendance policies, instructors must not penalize students for missing classes while quarantined.
+
 ## SCHEDULE
 *Tentative Course Schedule. All contents are subject to change.
 
