@@ -3,7 +3,7 @@
 
 
 
-Fall 20201   
+Fall 2021   
 BIOL 792 - 1028   
 **Prof**: Dr. Thomas Parchman; SFB 209; tparchman@unr.edu   
 Class: Tuesday/Thursday 6:00 – 7:10 pm TBA   
@@ -11,12 +11,12 @@ Office Hours: By appointment
 
 
 ## Course Description
-Modern Biology is increasingly shaped by data sets that are orders of magnitude larger than most biologists are trained to work with. This is especially the case for the fields of genetics and genomics where major recent advances in DNA sequencing technology have cut the time and cost investment of DNA sequencing more than 100,000 fold. Spreadsheet software and graphical user interface statistical analysis packages (e.g., Excel, Statistica, JMP) are useless for this scale of data for any scientic discipline. This course will introduce students to basic computational tools (focusing on Unix and Python) for modern biology. The course will involve hands on approaches and the analysis of data collected for graduate student research projects as well as examples from genomic data sets generated in my lab. The course should provide a starting point for students to gain further expertise in simple programming and efficient manipulation and analysis of large-scale data sets. The tools to be learned in this class are not unique to genomics, and will be of value to research in any scientific field. This course serves as a prerequisite for Data Science for Biology II, taught by Dr. Julie Allen during the spring. Prerequisites: must be enrolled as M.S. or Ph.D. student.
+Modern Biology is increasingly shaped by data sets that are orders of magnitude larger than most biologists are trained to work with. This is especially the case for the fields of genetics and genomics where major advances in DNA sequencing technology have cut the time and cost investment of DNA sequencing more than 100,000 fold. Spreadsheet software and graphical user interface statistical analysis packages (e.g., Excel, Statistica, JMP) are useless for this scale of data for any scientic discipline. This course will introduce students to basic computational tools (focusing on Unix and Python) to enhance data competency for modern biology. The course will involve hands on approaches and the manipulation and analysis of data collected for graduate student research projects as well as examples from genomic data sets generated in my lab. The course should provide a starting point for students to gain further expertise in simple programming and efficient manipulation and analysis of large-scale data. The tools to be learned in this class are not unique to genomics, and will be of value to research in any scientific field. This course serves as a prerequisite for Data Science for Biology II, taught by Dr. Julie Allen during the spring. Prerequisites: must be enrolled as M.S. or Ph.D. student.
 
 
 ## Student Learning Outcomes
 By the end of the semester, students should have learned enough to
-start working more confidently with big data using Unix and Python. We will emphasize tools often used in genomics and bioinformatics, but the applications learned will apply generally to data science. This course should also prepare students for the more advanced sister course, Data Science for Biology II, taught during spring semesters.
+start working more confidently with Unix and Python. We will emphasize tools often used in genomics and bioinformatics, but the applications learned will apply generally to data science. This course should also prepare students for the more advanced sister course, Data Science for Biology II, taught during spring semesters.
 
 * Students will be able to operate in a Unix computing
      environment, and will understand the basic use of Unix computing
@@ -25,7 +25,7 @@ start working more confidently with big data using Unix and Python. We will emph
 * Students will be able to write basic programs in Python in
        order to efficiently manipulate and work with large scale data.
 
-* Students will be able to use basic Unix and Python skills to
+* Students will be able to use basic Unix and Python to
        manipulate large genomic data sets, and to conduct basic analyses of
        genome level DNA sequencing data.
 
@@ -40,20 +40,20 @@ start working more confidently with big data using Unix and Python. We will emph
 * **Supplemental primers, readings and assignments** will be announced during the class and provided on the [course github page](https://github.com/tparchman/BIOL792_course_site).
 
 ## Course Format
-We will meet twice a week (Tues/Thurs 6:00-7:15) but I typically reserve two hours of time during each window to allow discusion/troubleshooting on coding related to assignments/projects. At the beginning of each class, I will introduce new concepts and material that will form the basis of the exercises, assignments, or projects we will work through that week. We will cover questions regarding previous material, and then you will spend at least half of each class working independently, or in small groups, on writing code. All students should come to class having thoroughly read the assigned material and prepared for discussion. As the class will be remote this semester, we will hold our weekly meetings at prescheduled zoom sessions [zoom invite](https://unr.zoom.us/j/92025861279)
+We will meet twice a week (Tues/Thurs 6:00-7:15) but I typically reserve two hours of time during each window to allow discusion/troubleshooting on coding related to assignments and independent projects. At the beginning of each class, I will introduce new concepts and material that will form the basis of the exercises, assignments, or projects we will work through that week. We will cover questions regarding previous material, and then you will spend at least half of each class working independently, or in small groups, on writing code. All students should come to class having thoroughly read the assigned material and prepared to try new coding exercises. We plan to hold class in person this semester, but will have contingency plans in place for covid19 precautions. Nonetheless, we will use zoom meetings each class meeting for two reasons. **First**, we will use zoom so that students can share their screens with me and the rest of the class while working through/trouble shooting code. **Second**, by using recorded zoom meetings for each class session, students that might not be able to make an in person meeting will be able to participate and review class period content with no consequences. In other words, if you are having a busy evening, or might be coming down with symptoms of covid19 or even just a minor cold, there will be no cost to participating remotely, rather than in person.
 
 ## Course Material Repositoy
-All readings, primers, problem set instructions, datasets, as well as ample supplemental materials will be available on the [course github page](https://github.com/tparchman/BIOL792_course_site). This will include primers for Unix and Python content, and additional resources for learning more about Python, Unix, and genomic workflows, and information and data sets related to assignments. 
+All readings, primers, problem set instructions, datasets, as well as ample supplemental materials will be available on the [course github page](https://github.com/tparchman/F21_BIOL792_coursepage). This will include primers for Unix and Python content, and additional resources for learning more about Python, Unix, and genomic workflows, and information and data sets related to assignments. 
 
 ## Grades
 
 Your grade in this course will be based on the following:
 
-* **Weekly assignments (50%)** Assignments will involve working in the Unix environment, writing simple Bash and Python scripts, and working with a variety of large data sets that will be provided over the course of the semester. Assignments will be evaluated based on completion and effort. You can work in teams of 2 or 3 but will turn in your own notes.txt file or Python.py or Bash.sh scripts for each assignment. Code should be annotated, step by step, to explain what you did to complete the task. More guidelines on these files and each specific assignment will be available on the course website. Assignments will be due before class on Thursdays unless otherwise specified.
+* **Weekly assignments (50%)** Assignments will involve working in the Unix environment, writing simple Bash and Python scripts, and working with a variety of large data sets that will be provided over the course of the semester. Assignments will be evaluated based on completion and effort. You can work in teams of 2 or 3 but will turn in your own Python.py or Bash.sh scripts for each assignment. Code should be annotated, step by step, to explain what you did to complete the task. More guidelines on these files and each specific assignment will be available on the course website. Assignments will be due before class on Thursdays unless otherwise specified.
  
 * **Participation (30%)** This is a graduate course, with full attendance and participation expected. Participation entails showing up for class prepared and doing your best to work through assigned tasks and programming example problems. Some of the material we cover might be easy and quick to figure out. Other material and tasks will present roadblocks that will be difficult to figure out. No questions will be stupid questions.
  
-* **Independent project (20%)** Everyone will be responsible for an independent project (this can be done either individually, or as a group). This will involve identifying a task or problem in your research (or the research of the group you work within) that either requires, or can be made much more efficient, using Python or Unix scripting. Each group (or individual) will need to turn in a one to two page description of the task and how they will solve it by week 4. By week 12, each group will need to turn in final scripts and a one to three page description of how the problem was solved, and how the code works. In addition, each group will give a short (5-10 minute) presentation that describes the data, the problem, and how their scripting tools work. For those without data or ideas, I can supply some options.
+* **Independent project (20%)** Everyone will be responsible for an independent project which can be organized either individually, or as a group. This will involve identifying a task or problem in your research (or the research of the group you work within) that either requires, or can be made much more efficient, using Python or Unix scripting. Each group (or individual) will need to turn in a one to two page description of the task and how they will solve it by **week 5**. By week 12, each group will need to turn in final scripts and a one to three page description of how the problem was solved, and how the code works. In addition, each group will give a short (5-10 minute) presentation that describes the data, the problem, and how their scripting tools work. For those without data or ideas, I can supply some options.
 
 **Grading scale as follows:**
 
@@ -138,8 +138,8 @@ For students who are required to quarantine or self-isolate due to 1) COVID 19 i
 | Week 2  |	Sep. 1, 3      | Unix II                        |               |
 | Week 3  |	Sep. 8, 10	   | Unix III                       | Homework 1   |
 | Week 4  |	Sep. 15, 17	   | Unix IV                        | Homework 2   |
-| Week 5  |	Sep. 22, 24	   | Python I                       | Homework 3   | 
-| Week 6  |	Sep. 29, Oct. 1| Python II	                    | Homework 4 *1-2 page project description    
+| Week 5  |	Sep. 22, 24	   | Python I                       | Homework 3;  *1-2 page project description | 
+| Week 6  |	Sep. 29, Oct. 1| Python II	                    | Homework 4     
 | Week 7  |	Oct. 6, 8	   | Python III                     | Homework 5
 | Week 8  |	Oct. 13, 15	   | Python IV                      | Homework 6 |
 | Week 9  |	Oct. 20,22	   | Python V	                    | Homework 7 |  
