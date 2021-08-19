@@ -6,7 +6,7 @@
 Fall 2021   
 BIOL 792 - 1028   
 **Prof**: Dr. Thomas Parchman; SFB 209; tparchman@unr.edu   
-Class: Tuesday/Thursday 6:00 – 7:10 pm TBA   
+Class: Tuesday/Thursday 6:00 – 7:10 pm FH 18   
 Office Hours: By appointment    
 
 
@@ -33,14 +33,14 @@ start working more confidently with Unix and Python. We will emphasize tools oft
 
 * **Practical computing for biologists** Haddock, S.H.D. and Dunn, C.W., 2011. Sunderland, MA, USA: Sinauer Associates. The book provides an excellent guide to the much of content of the course, is filled with excellent examples and problems, and will also be utilized in Data Science for Biology II during spring semesters.
 
-* **Computer with Unix operating system** Students with
+* **Computer with Unix/Linus operating system** Students with
   Mac computers already have machines running Unix and
-  are ready to go. Students without Mac computers will have the option of checking out a Mac laptop for the semester, or will need to figure out how to install Linux or a Linux emulator on their computer. 
+  are ready to go. Same goes for students running Linux (Ubuntu, Centos, etc.). Students using computers running a windows OS or will need to figure out how to install Linux or a Linux emulator on their machine. 
 
 * **Supplemental primers, readings and assignments** will be announced during the class and provided on the [course github page](https://github.com/tparchman/BIOL792_course_site).
 
 ## Course Format
-We will meet twice a week (Tues/Thurs 6:00-7:15) but I typically reserve two hours of time during each window to allow discusion/troubleshooting on coding related to assignments and independent projects. At the beginning of each class, I will introduce new concepts and material that will form the basis of the exercises, assignments, or projects we will work through that week. We will cover questions regarding previous material, and then you will spend at least half of each class working independently, or in small groups, on writing code. All students should come to class having thoroughly read the assigned material and prepared to try new coding exercises. We plan to hold class in person this semester, but will have contingency plans in place for covid19 precautions. Nonetheless, we will use zoom meetings each class meeting for two reasons. **First**, we will use zoom so that students can share their screens with me and the rest of the class while working through/trouble shooting code. **Second**, by using recorded zoom meetings for each class session, students that might not be able to make an in person meeting will be able to participate and review class period content with no consequences. In other words, if you are having a busy evening, or might be coming down with symptoms of covid19 or even just a minor cold, there will be no cost to participating remotely, rather than in person.
+We will meet twice a week (Tues/Thurs 6:00-7:15) but I typically reserve two hours of time during each window to allow discusion/troubleshooting on coding related to assignments and independent projects. At the beginning of each class, I will introduce new concepts and material that will form the basis of the exercises, assignments, or projects we will work through that week. We will cover questions regarding previous material, and then you will spend at least half of each class working independently, or in small groups, on writing code. All students should come to class having thoroughly read the assigned material and prepared to try new coding exercises. We plan to hold class in person this semester, but will have contingency plans in place for covid19 scenarios. Regardless, we will use zoom meetings each class meeting for two reasons. **First**, we will use zoom so that students can share their screens with me and the rest of the class while working through/trouble shooting code. **Second**, by using recorded zoom meetings for each class session, students that might not be able to make an in person meeting will be able to participate and review recorded class period content with no consequences. In other words, if you are having a busy evening, or might be coming down with symptoms of covid19 or even just a minor cold, there will be no cost to participating remotely, rather than in person.
 
 ## Course Material Repositoy
 All readings, primers, problem set instructions, datasets, as well as ample supplemental materials will be available on the [course github page](https://github.com/tparchman/F21_BIOL792_coursepage). This will include primers for Unix and Python content, and additional resources for learning more about Python, Unix, and genomic workflows, and information and data sets related to assignments. 
@@ -49,7 +49,7 @@ All readings, primers, problem set instructions, datasets, as well as ample supp
 
 Your grade in this course will be based on the following:
 
-* **Weekly assignments (50%)** Assignments will involve working in the Unix environment, writing simple Bash and Python scripts, and working with a variety of large data sets that will be provided over the course of the semester. Assignments will be evaluated based on completion and effort. You can work in teams of 2 or 3 but will turn in your own Python.py or Bash.sh scripts for each assignment. Code should be annotated, step by step, to explain what you did to complete the task. More guidelines on these files and each specific assignment will be available on the course website. Assignments will be due before class on Thursdays unless otherwise specified.
+* **Weekly assignments (50%)** Assignments will involve working in the Unix environment, writing simple Bash and Python scripts, and working with a variety of large data sets that will be provided over the course of the semester. Assignments will be evaluated based on completion and effort. You can work in teams of 2 or 3 but will turn in your own Python.py or Bash.sh scripts for each assignment. Code should be annotated, step by step, to explain what you did to complete the task. More guidelines on these files and each specific assignment will be available on the course website. Assignments will be due before class on Tuesdays unless otherwise specified.
  
 * **Participation (30%)** This is a graduate course, with full attendance and participation expected. Participation entails showing up for class prepared and doing your best to work through assigned tasks and programming example problems. Some of the material we cover might be easy and quick to figure out. Other material and tasks will present roadblocks that will be difficult to figure out. No questions will be stupid questions.
  
@@ -71,8 +71,8 @@ Your grade in this course will be based on the following:
 
 ## University Policies
 ### **Dropping/Withdrawing**
-Last day to drop a class and receive a full refund: Sep. 2, 2020\
-**Final day to withdrawal from classes (W, no refund): Oct. 27, 2018**
+Last day to drop a class and receive a full refund: Sep. 1, 2021\
+**Final day to withdrawal from classes (W, no refund): Oct. 27, 2021**
 
 
 ### **Incomplete Grade**
@@ -134,19 +134,19 @@ For students who are required to quarantine or self-isolate due to 1) COVID 19 i
 
 | Week    |  Date          |  Class                         |  Due          |
 | ------- | ---------------| ------------------------------ | ------------- |
-| Week 1  | Aug. 25, 27    | Course introduction, Unix I    | 
-| Week 2  |	Sep. 1, 3      | Unix II                        |               |
-| Week 3  |	Sep. 8, 10	   | Unix III                       | Homework 1   |
-| Week 4  |	Sep. 15, 17	   | Unix IV                        | Homework 2   |
-| Week 5  |	Sep. 22, 24	   | Python I                       | Homework 3;  *1-2 page project description | 
-| Week 6  |	Sep. 29, Oct. 1| Python II	                    | Homework 4     
-| Week 7  |	Oct. 6, 8	   | Python III                     | Homework 5
-| Week 8  |	Oct. 13, 15	   | Python IV                      | Homework 6 |
-| Week 9  |	Oct. 20,22	   | Python V	                    | Homework 7 |  
-| Week 10 |	Oct. 27, 29	   | Python VI                      | Homework 8 |
-| Week 11 | Nov. 3, 5      | Python VII                     | Homework 9 |
-| Week 12 | Nov. 10, 12    | Population genetics workflow   | nothing |
-| Week 13 | Nov. 17, 19	   | Population genetics cont.  | nothing
-| Week 14 | Nov. 24	       | HPC/Pronghorn/Project prep | 
-| Week 15 | Dec. 1, 3	   | Project prep/presentation  | Homework 10, projects due
+| Week 1  | Aug. 24, 26    | Course introduction, Unix I    | 
+| Week 2  |	Aug. 31, Sep. 2      | Unix II                        |               |
+| Week 3  |	Sep. 7, 9	   | Unix III                       | Homework 1   |
+| Week 4  |	Sep. 14, 16	   | Unix IV                        | Homework 2   |
+| Week 5  |	Sep. 21, 23	   | Python I                       | Homework 3;  *1-2 page project description | 
+| Week 6  |	Sep. 28, 30| Python II	                    | Homework 4     
+| Week 7  |	Oct. 5, 7	   | Python III                     | Homework 5
+| Week 8  |	Oct. 12, 14	   | Python IV                      | Homework 6 |
+| Week 9  |	Oct. 19,21	   | Python V	                    | Homework 7 |  
+| Week 10 |	Oct. 26, 28	   | Python VI                      | Homework 8 |
+| Week 11 | Nov. 2, 4      | Python VII                     | Homework 9 |
+| Week 12 | Nov. 9, 11    | Population genetics workflow   | nothing |
+| Week 13 | Nov. 16, 18	   | Population genetics cont.  | nothing
+| Week 14 | Nov. 23	       | HPC/Pronghorn/Project prep | 
+| Week 15 | Nov. 30, Dec. 2	   | Project prep/presentation  | Homework 10, projects due
 | Week 16 | Dec. 8	       | Present Projects		          |   *projects due
