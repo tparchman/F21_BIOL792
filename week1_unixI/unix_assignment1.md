@@ -1,11 +1,11 @@
-# BIOL 792-1028. Unix week one tasks (8/27/20)
+# BIOL 792-1028. Unix week one tasks 
 
 
-## Common commands: 
+## Common commands
 
-Below you’ll see a list of commonly used UNIX commands. You might want to use this to take notes on commands as you work through the tutorial, or just as a checklist so that you know you’ve covered all the bases.
+Below is a sample list of commonly used UNIX commands. You might want to use this to take notes on commands as you work through the tutorial, or just as a checklist so that you know you’ve covered all the bases.
 
-While getting used to the idea of these commands, it is useful to note that the up and down arrow keys scroll through recently used commands, and pressing the `tab` key completes the name of a file, directory, unix command, or piece of installed software. You will want to use `tab` heavily for two reasons. 1. it will save you most of your typing time, 2. autocomplete is more accurate than your  typing.
+It is useful to note that the `up` and `down` arrow keys scroll through recently used commands, and `tab` key completes the name of a file, directory, unix command, or piece of installed software. You will want to use `tab` heavily for two reasons. 1. it will save you most of your typing time, 2. autocomplete is more accurate than your  typing.
 
     ls          mkdir           cd          pwd
     cp          mv              rm          rmdir 		
@@ -14,16 +14,20 @@ While getting used to the idea of these commands, it is useful to note that the 
 
 
 
-## 'man' pages. 
+## `man` pages
 For any Unix command (there are thousands) you can find the full information on that command by using  `man`. 
 
 For example: 
 
     $ man pwd
 
-This will tell you what `pwd` does, command line options, etc. Here you will see the information on `pwd` displayed in a text viewer called `less`. You can move forward one page at a time with the space bar. `man` pages are always opened with `less`, a command you will use heavily.
+This will tell you what `pwd` does, command line options, etc. Here you will see the information on `pwd` displayed in a text viewer called `less`.  `man` pages are always opened with `less`, a command you will use heavily to view the contents of files. 
 
-
+To navigate/control `less`:
+- `space bar` to advance one page
+- `b` to go back one page
+- `q` to exit less and regain command line prompt
+- `/` to enter a pattern search
 
 Next, look at:
 
@@ -36,15 +40,19 @@ Try:
 
     $ man grep
 
- Upon scrolling through the `grep` man page, you will see that `grep` has many command options and is a flexible, powerful, and commonly used text processing tool. Use the `man` command to explore the functionality and command line options of the common commands listed above.
+ Upon scrolling through the `grep` man page, you will see that `grep` has many command options and is a flexible, powerful, and commonly used text processing tool. Use the `man` command to explore the functionality and command line options for some the common commands listed above.
 
-## Directory navigation. 
+## Directory navigation
 
 You can move directly to your home directory from anywhere with the two shortcuts below.
 
     $ cd ~
 
     $ cd 
+
+Moving directly to `root` is similarly easy.
+
+    $ cd /
 
 Moving up into unnamed directories is easy, as below.
 
@@ -139,7 +147,7 @@ Try some other useful commands:
     $ cal
 
 
-## Unix tutorials: COMPLETE THE FIRST 2-3 sections of each of the below tutorials. This will help you get up to speed and or solidify introductory Unix commands.
+## Unix tutorials: **complete the first 2-3** sections of each of the below tutorials. This will help you get up to speed and or solidify introductory Unix commands.
 
 Lastly for our first week, work through the first two sections of this tutorial to reiterate your introduction.
 
