@@ -97,7 +97,7 @@ To quickly remind yourself of where you are in a directory tree from anywhere on
 
     $ pwd
 
-## stopping jobs, exiting programs in the terminal
+## Stopping jobs, exiting programs in the terminal
 
 It is often necessary to put a stop to things that are happening in the terminal, but the means to that end can be context dependent. Here are two simple options that usually work:
 
@@ -107,13 +107,14 @@ It is often necessary to put a stop to things that are happening in the terminal
 
 `q` exits a number of programs, including less and top
 
-## basic process monitoring (more detail later)
+## Basic process monitoring (more detail later)
 
     $ top
 
 Will list processes running on your machine.
 
 Open another terminal window (`command n`) and use `less` to look at the top of a text file. Type `top` in the other terminal and look for the line showing that less is running.
+
 
 ## Using basic Unix to explore features of a file of Illumina DNA sequencing data.
 
@@ -126,8 +127,6 @@ Inside this directory, make three other directories named:
 - scripts
 - resources
 		
-
-
 Download the example file “sample_passerina.fastq” from the course website for the unix1 assignment, and use the command line move it into the data directory you made above. 
 
 - What is the size of this file, and when was it last modified? 
@@ -151,9 +150,10 @@ Try some other useful commands:
 
 Lastly for our first week, work through the first two sections of this tutorial to reiterate your introduction.
 
-http://www.ee.surrey.ac.uk/Teaching/Unix/index.html
+- Useful primer from "Unix and Perl to the Rescue", by Bradnam and Korf. For this course, the [unix_primer](http://korflab.ucdavis.edu/Unix_and_Perl/current.html) is hard to beat. Please bookmark this and get familiar with part 1 and part 2.
 
-Start at the beginning by clicking on “Introduction to the UNIX Operating System.” Then work through the first two sections of the tutorial, creating and manipulating files as directed. At the beginning of section 2, you’ll see that a file (science.txt) that you can find in the "week1_unixI" page on the course website.
-You can stop with section three this week
+- Also, please have a look at the excellent [tutorial from software carpentry](http://swcarpentry.github.io/shell-novice/). For this week and next, follow steps 1 through 3.
+
+- quick guides to basic Unix commands can be found in [Appendix 2](https://github.com/tparchman/BIOL792/blob/master/unix_resources/Haddock_and_Dunn_quickguide_Appendices.pdf) of Haddock and Dunn and the course page has numerous 'cheat 'sheets' under unix_resources, such as this [unix cheat sheet](https://github.com/tparchman/BIOL792/blob/master/unix_resources/unix_cheat_sheet.pdf). These will be extremely useful.
 
 Also, please have a look at the excellent [tutorial from software carpentry](http://swcarpentry.github.io/shell-novice/). For this week and next, follow steps 1 through 3.
