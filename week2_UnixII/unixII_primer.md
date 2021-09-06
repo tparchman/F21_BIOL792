@@ -252,7 +252,7 @@ We could write all of teh ID lines to a separate file:
 
 $ grep "^@" -c sample_passerina.fastq > idlines.txt
 
-We can cound the number of sequences:
+We can count the number of sequences:
 
 $ grep "^@" -c sample_passerina.fastq
 
