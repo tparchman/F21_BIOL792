@@ -116,10 +116,35 @@ If all is in order, "Im ready to learn python, and this is my first step should 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+# 3. Additional resources to help with learning Python
 
-## Python documentation and other useful resources
+## Jupyter QtConsole (enhanced interactive prompt), and Spyder IDE
+
+Python has command line interactive prompt (we will get into this next week), but I suggest using one of these additional tools to aid your exploration of Python syntax while writing scripts or testing code.
+
+Download the [Anaconda Navigator](https://www.anaconda.com/products/individual-d) suite of tools. From within this you can start the Spyder IDE and or the Jupyter QtConsole from the launch menu.
+
+
+# Python documentation and other useful resources. 
+
+I strongly recommend you explore several of the below resources and tutorials. They ALL can and will facilitate your progress greatly.
 
 [Python documentation](https://www.python.org/doc/)
 
 [Python for Biologists](https://pythonforbiologists.com/introduction)
+
+[Learn Python Interactive](https://www.learnpython.org/)
+ - This has a built in interpretter, so you can test code or play with code under the tutorial examples. Excellent resource.
+
+[Python guru ](https://thepythonguru.com/)
+ - This also has a built in interpretter, so you can test code or play with code under the tutorial examples. Excellent resource.
+
+
+## Note on Python 3 syntax updates and Haddock and Dunn.
+
+ If you are using Haddock and Dunn text, be aware that it is based on python2, and there are some important differences between python2 and python3 (syntax changes that will require slight modification of book examples)
+
+
+1. print statements in python3 should use (). 
+2. `raw_input()` has become just `input()`
 
