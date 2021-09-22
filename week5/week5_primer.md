@@ -112,7 +112,6 @@ Or, change to executable, then run:
 
 If all is in order, "Im ready to learn python, and this is my first step should print to the screen", and you are ready for more.
 
-
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -124,8 +123,12 @@ Python has command line interactive prompt (we will get into this next week), bu
 
 Download the [Anaconda Navigator](https://www.anaconda.com/products/individual-d) suite of tools. From within this you can start the Spyder IDE and or the Jupyter QtConsole from the launch menu.
 
+## Jupyter QtConsole
 
-# Python documentation and other useful resources. 
+## Spyder IDE
+
+
+## Python documentation and other useful resources. 
 
 I strongly recommend you explore several of the below resources and tutorials. They ALL can and will facilitate your progress greatly.
 

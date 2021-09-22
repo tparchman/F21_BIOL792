@@ -61,7 +61,7 @@ After you identify the job id (e.g., 77654), you can kill it:
 
 ## 2. Removing directories and files revisited (and note of caution).
 
-Once you changed your .bash_profile file to invoke the `-i` option, the shell should ask if you are sure you want to delete or overwrite files after using `rm`, `rmdir`, `cp`, or `mv`. *Please make certain that you have this working correctly so you dont inadvertently destroy things.* 
+Once you changed your zsh (.zshrc) or bash (.bash_profile) profile to invoke the `-i` option, the shell should ask if you are sure you want to delete or overwrite files after using `rm`, `rmdir`, `cp`, or `mv`. *Please make certain that you have this working correctly so you dont inadvertently destroy things.* 
 
 Things should look as below:
 
