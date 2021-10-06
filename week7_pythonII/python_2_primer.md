@@ -1,4 +1,4 @@
-# Python primer II, Data Science I, Fall 2020. 
+# Python primer II, Data Science I, Fall 2021 
 
 ## Topics to cover
 - lists
@@ -9,12 +9,13 @@
 <p>&nbsp;</p>
 
 # 1. Lists
-Lists store vectors of information, and you will commonly use them. The are convenient because they can be used with loops to execute the same blocks of code on each element.
+Lists store vectors of information, and you will commonly use them. They are convenient because they can be used with loops to execute the same blocks of code on each element.
 
 Hardcoding lists within your scripts is good for learning, although once you start working with real data you will learn to build lists quickly on the fly. To build lists, we enclose the set in brackets. The contents of a list can be a mixture of data types, although you will usually work with lists of only one type (strings, integers, floats)
 
     NameList = ['Jim', 'Bob', 'Amy', 'Beth']    # list of strings
     NumList = [9, 28, 18, 83, 85]   # list of integers
+    BothList =['Jim', 'Bob', 'Amy', '3', '5', '7']
 
 List elements are accessed by their indeces, 0 coming before the first list element. Rather than thinking of each element as matching its index, think of the indeces as representing the boundaries between elements. (see page 159 of Haddock and Dunn for explanation)
 
@@ -34,7 +35,7 @@ Specifying ranges of elements is done using `:`, with indices corresponding to b
     print(List[1:4]) # will print ('b', 'c', 'd')
     print(List[-3:]) # will print ('c', 'd', 'e')
 
-Note, that information from strings can be similarly extracted. One difference is that you can not modify a portion of a string, but you can modify portions of a list.
+Note, that information from strings can be similarly extracted by treating them in list context. One difference is that you can not (as readily) conditionally modify a portion of a string, but you can modify portions of a list.
 
     Names = "TomJoshTrevor"
     print(Names[0:3]) # prints 'Tom'
