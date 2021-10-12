@@ -66,7 +66,7 @@ Matches can be extracted as below, although we will cover capturing and storing 
     Seq = 'ATCGGGGGGATCGGGATC'
     re.search('ATC', Seq).group() #returns: 'ATC'
 
-Note that above, `re.search` only stores one ATC, even though there are 3 in Seq. Thats because `re.search` only makes one match. `re.findall` and `re.finditerate` find, track, and store multiple matches. More on these below.
+Note that above, `re.search` only stores one ATC, even though there are 3 in Seq. Thats because `re.search` only makes one match. `re.findall` and `re.finditer` to find, track, and store multiple matches. More on these below.
 
 ## Basic syntax for regular expression matching
 
@@ -125,7 +125,7 @@ Example usage.
         print("Matched")
     if re.search("\?", X):  
         print("Matched")
-### `re.finditer)`
+## `re.finditer()`
 
 `re.finditer()` can process multiple matches and returns a list of match objects which can be further processed in a loop.
 
@@ -137,7 +137,7 @@ Example usage.
         pos  = m.start() 
         print(base + str(pos))
 
-### `re.findall()`
+## `re.findall()`
 
 `re.findall` can process multiple matches and returns the text of the matches themselves as strings. Thus, rather than returning a list of match objects, this returns a list of strings. Useful for capturing or counting matches.
 
